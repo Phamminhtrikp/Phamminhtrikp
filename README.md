@@ -27,6 +27,13 @@
 
 
 ### 🐍 Snake Game
+<!-- Dark mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="snake.svg" />
+</picture>
+
 ![Snake animation](https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg)
 
 
