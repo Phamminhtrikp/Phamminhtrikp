@@ -4,9 +4,9 @@
   <a href="https://github.com/Phamminhtrikp">Pham Minh Tri </a>
 </p>
 
-<p align="center">
+<div align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;)](https://git.io/typing-svg)
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/Phamminhtrikp">
