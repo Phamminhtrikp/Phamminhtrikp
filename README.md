@@ -26,6 +26,10 @@
 </p>
 
 
+### 🐍 Snake Game
+![Snake animation](https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg)
+
+
 ## Coming Soon ...
 
 
