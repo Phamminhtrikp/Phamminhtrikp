@@ -10,7 +10,7 @@
   <p align="center">
     <!-- https://git.io/typing-svg -->
     <a href="https://github.com/Phamminhtrikp">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;" />
     </a>
   </p>
 </div>
