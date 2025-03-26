@@ -1,17 +1,25 @@
-# Welcome ✨
-
 <p align="center">
-  <a href="https://github.com/Phamminhtrikp" style="text-decoration: none;">Pham Minh Tri</a>
+  <a href="https://github.com/Phamminhtrikp">
+    <img src="https://raw.githubusercontent.com/Phamminhtrikp/Phamminhtrikp/main/assets/name.svg" />
+  </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- https://git.io/typing-svg -->
   <a href="https://github.com/Phamminhtrikp">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;" />
   </a>
-</p>
+</p> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;)](https://git.io/typing-svg) -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;)](https://git.io/typing-svg)
+
+</div>
+
+
+# Welcome ✨
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -29,12 +37,13 @@
 ### 🐍 Snake Game
 <!-- Dark mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
 </picture>
 
-![Snake animation](https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg)
+
+<!-- ![Snake animation](https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg) -->
 
 
 ## Coming Soon ...
