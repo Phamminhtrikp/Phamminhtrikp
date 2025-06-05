@@ -1,59 +1,48 @@
 <p align="center">
-  <a href="https://github.com/Phamminhtrikp">
-    <img src="https://raw.githubusercontent.com/Phamminhtrikp/Phamminhtrikp/main/assets/name.svg" />
+  <a href="https://github.com/Phamminhtrikp" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Phamminhtrikp/Phamminhtrikp/main/assets/name.svg" alt="Phamminhtrikp" />
   </a>
 </p>
 
-<br>
+<br />
 
 <div align="center">
-  <p align="center">
-    <!-- https://git.io/typing-svg -->
-    <a href="https://github.com/Phamminhtrikp">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;" />
-    </a>
-  </p>
+  <a href="https://github.com/Phamminhtrikp" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=400&lines=Hello,+everyone.;👋+Hi,+I’m+@Phamminhtrikp;I'm+here,+and+so+are+you." alt="Typing SVG" />
+  </a>
 </div>
 
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone.+;👋+Hi,+I’m+@Phamminhtrikp;I'm+here%2C+and+so+are+you.;)](https://git.io/typing-svg) -->
-
-
-
+<br />
 
 # Welcome ✨
 
-
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://github.com/Phamminhtrikp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/Phamminhtrikp" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/minh-tri-pham-a00989247/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/minh-tri-pham-a00989247/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  
 </p>
 
+---
 
-### 🐍 Snake Game
-<!-- Dark mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
-  <img alt="github-snake" src="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
-</picture>
+## 🐍 Snake Game
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
+    <img alt="Snake Game" src="https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg" />
+  </picture>
+</p>
 
-<!-- ![Snake animation](https://github.com/Phamminhtrikp/Phamminhtrikp/blob/output/snake.svg) -->
+---
 
+### 🚧 Coming Soon ...
 
-## Coming Soon ...
-
-
-
-
+---
 
 <!---
 Phamminhtrikp/Phamminhtrikp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
